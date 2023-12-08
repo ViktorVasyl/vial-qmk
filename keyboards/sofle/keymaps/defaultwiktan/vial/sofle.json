@@ -1,7 +1,7 @@
 {
   "name": "Sofle",
   "vendorProductId": 4231135879,
-"lighting": "qmk_backlight"
+"lighting": "qmk_backlight",
   "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
